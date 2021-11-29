@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    background: url("../img/lv.png");
+    
+    
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px
+}
+
+.card {
+    width: 1537px;
+    margin: 23px 50px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 16px 39px #ccc;
+    border-radius: 10px
+    
+}
+
+.card-photo {
+    display: block;
+    width: 493px;
+    height: 547px;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.card-title {
+    font-size: 50px;
+    text-align: center;
+    font-family: Candara Light;
+    color: #ce00ff;
+}
+.card-contacts {
+    font-size: 50px;
+    text-align: center;
+    font-family: Candara Light;
+    color: #890000;
+}
+
+.card-text {
+    font-size: 50px;
+    text-align: center;
+    font-family: Candara Light;
+    line-height: 1.5;
+    
+}
+
+.card-subtitle {
+    font-size: 50px;
+    text-align: center;
+    font-family: Candara Light;
+    line-height: 1.5;
+}
+
+.card-guba {
+    font-size: 50px;
+    text-align: center;
+    font-family: Candara Light;
+    line-height: 1.5;
+}
